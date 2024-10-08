@@ -41,5 +41,7 @@ php artisan make:livewire like-post: **Crea class y view en livewire**
 
 npm run dev: **arranca servidor de desarrollo** 
 
-composer create-project laravel/laravel mi-proyecto-laravel: **crear proyecto laravel**
+composer create-project laravel/laravel mi-proyecto-laravel: **Crear proyecto laravel**
+
+php artisan migrate:fresh --seed  **Reestablecer y llenar la base de datos**
 
